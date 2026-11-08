@@ -1,0 +1,30 @@
+Wizard RPG Credits
+
+GAME MAP
+- Mipui — Used to create the initial prototype of the game map.
+  https://www.mipui.net/
+- BlenderKit — Grass, water, and dirt materials used in creating the final map.
+  https://www.blenderkit.com/
+  License: CC0 or Royalty Free, depending on the individual material.
+- Note: Other map elements are all modeled and rendered by me.
+
+SPRITE
+- FreeGameSprites — Character, spell effect, chest UI icons (fire and health), and exit lock icon.
+  https://freegamesprites.com/
+  License: CC0
+
+FONT
+- Silkscreen — Pixel-style UI font, designed by Jason Kottke and distributed through Google Fonts.
+  https://fonts.google.com/specimen/Silkscreen
+  License: SIL Open Font License 1.1
+
+SOUND EFFECTS
+- Kenney — Interface Sounds, used for button activation and chest opening.
+  https://kenney.nl/assets/interface-sounds
+  License: CC0
+- LEGIT Audio — Fire Staff Sound Effects, used for fire spells.
+  https://opengameart.org/content/fire-staff-sound-effects
+  License: CC0
+- GreyFrogGames — Player Hit (Damage), used for player damage.
+  https://opengameart.org/content/player-hit-damage
+  License: CC0
